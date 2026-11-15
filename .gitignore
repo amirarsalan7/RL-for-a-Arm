@@ -35,8 +35,3 @@ checkpoints/
 wandb/
 *.tfevents.*
 *.log
-
-# ROS 2 / colcon build artifacts (if ROS is added later)
-ros2_ws/build/
-ros2_ws/install/
-ros2_ws/log/
